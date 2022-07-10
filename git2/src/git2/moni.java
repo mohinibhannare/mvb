@@ -30,5 +30,12 @@ public class moni {
 		System.out.println("this is mohini method");
 	}
 
+	public void tush() {
+
+		System.out.println("this is tush method");
+	}
+
+	
+	
 	
 }
