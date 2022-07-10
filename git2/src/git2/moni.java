@@ -19,4 +19,9 @@ public class moni {
 		System.out.println("this is m2 method");
 	}
 
+	public void m4() {
+
+		System.out.println("this is m4 method");
+	}
+
 }
