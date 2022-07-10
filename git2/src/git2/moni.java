@@ -24,4 +24,11 @@ public class moni {
 		System.out.println("this is m4 method");
 	}
 
+	
+	public void mohini() {
+
+		System.out.println("this is mohini method");
+	}
+
+	
 }
